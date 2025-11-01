@@ -11,11 +11,8 @@
 
               <xs:element name="Name" type="xs:string"/>
 
-              <!-- repeatable phone numbers (no attributes) -->
-              <xs:element name="Phone" type="xs:string"
-                          minOccurs="1" maxOccurs="unbounded"/>
+              <xs:element name="Phone" type="xs:string" minOccurs="1" maxOccurs="unbounded"/>
 
-              <!-- Address subtree -->
               <xs:element name="Address">
                 <xs:complexType>
                   <xs:sequence>
@@ -26,17 +23,14 @@
                     <xs:element name="Zip"    type="xs:string"/>
                   </xs:sequence>
 
-                  <!-- optional attribute on Address -->
-                  <xs:attribute name="NearstAirport"
-                                type="xs:string"
-                                use="optional"/>
+                  <xs:attribute name="NearstAirport" type="xs:string" use="optional"/>
                 </xs:complexType>
               </xs:element>
 
             </xs:sequence>
 
-            <!-- required Rating attribute on Hotel -->
             <xs:attribute name="Rating" type="xs:decimal" use="required"/>
+            
           </xs:complexType>
         </xs:element>
 

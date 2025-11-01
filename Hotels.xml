@@ -1,27 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Hotels>
-    <Hotel Rating="4.2">
-        <Name>Westin</Name>
-        <Phone>480-968-8885</Phone>
-        <Phone>800-937-8461</Phone>
-        <Address NearstAirport="Sky Harbor">
-            <Number>11</Number>
-            <Street>E 7th St</Street>
-            <City>Tempe</City>
-            <State>AZ</State>
-            <Zip>85281</Zip>
-        </Address>
-    </Hotel>
 
-    <Hotel Rating="4.0">
-        <Name>Hilton Garden Inn</Name>
-        <Phone>602-222-1111</Phone>
-        <Address NearstAirport="Sky Harbor">
-            <Number>4000</Number>
-            <Street>N Central Ave</Street>
+    <Hotel Rating="4.5">
+        <Name>JW Marriott Desert Ridge</Name>
+        <Phone>480-293-5000</Phone>
+        <Address NearstAirport="Phoenix–Mesa Gateway">
+            <Number>5350</Number>
+            <Street>E Marriott Dr</Street>
             <City>Phoenix</City>
             <State>AZ</State>
-            <Zip>85012</Zip>
+            <Zip>85054</Zip>
         </Address>
     </Hotel>
 
@@ -38,39 +26,40 @@
         </Address>
     </Hotel>
 
-    <Hotel Rating="4.5">
-        <Name>JW Marriott Desert Ridge</Name>
-        <Phone>480-293-5000</Phone>
-        <Address NearstAirport="Phoenix–Mesa Gateway">
-            <Number>5350</Number>
-            <Street>E Marriott Dr</Street>
-            <City>Phoenix</City>
-            <State>AZ</State>
-            <Zip>85054</Zip>
-        </Address>
-    </Hotel>
-
-    <Hotel Rating="3.9">
-        <Name>Sheraton Phoenix Downtown</Name>
-        <Phone>602-262-2500</Phone>
-        <Address>
-            <Number>340</Number>
-            <Street>N 3rd St</Street>
+    <Hotel Rating="4.3">
+        <Name>Kimpton Hotel Palomar Phoenix</Name>
+        <Phone>602-253-6633</Phone>
+        <Address NearstAirport="Sky Harbor">
+            <Number>2</Number>
+            <Street>E Jefferson St</Street>
             <City>Phoenix</City>
             <State>AZ</State>
             <Zip>85004</Zip>
         </Address>
     </Hotel>
 
-    <Hotel Rating="3.8">
-        <Name>Holiday Inn Express &amp; Suites Tempe</Name>
-        <Phone>480-831-9800</Phone>
+    <Hotel Rating="4.2">
+        <Name>Westin</Name>
+        <Phone>480-968-8885</Phone>
+        <Phone>800-937-8461</Phone>
         <Address NearstAirport="Sky Harbor">
-            <Number>1520</Number>
-            <Street>W Baseline Rd</Street>
+            <Number>11</Number>
+            <Street>E 7th St</Street>
             <City>Tempe</City>
             <State>AZ</State>
-            <Zip>85283</Zip>
+            <Zip>85281</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="4.2">
+        <Name>DoubleTree by Hilton Phoenix Mesa</Name>
+        <Phone>480-833-5555</Phone>
+        <Address NearstAirport="Phoenix–Mesa Gateway">
+            <Number>1011</Number>
+            <Street>W Holmes Ave</Street>
+            <City>Mesa</City>
+            <State>AZ</State>
+            <Zip>85210</Zip>
         </Address>
     </Hotel>
 
@@ -99,15 +88,40 @@
         </Address>
     </Hotel>
 
-    <Hotel Rating="4.2">
-        <Name>DoubleTree by Hilton Phoenix Mesa</Name>
-        <Phone>480-833-5555</Phone>
-        <Address NearstAirport="Phoenix–Mesa Gateway">
-            <Number>1011</Number>
-            <Street>W Holmes Ave</Street>
-            <City>Mesa</City>
+    <Hotel Rating="4.0">
+        <Name>Hilton Garden Inn</Name>
+        <Phone>602-222-1111</Phone>
+        <Address NearstAirport="Sky Harbor">
+            <Number>4000</Number>
+            <Street>N Central Ave</Street>
+            <City>Phoenix</City>
             <State>AZ</State>
-            <Zip>85210</Zip>
+            <Zip>85012</Zip>
+        </Address>
+    </Hotel>
+
+
+    <Hotel Rating="3.9">
+        <Name>Sheraton Phoenix Downtown</Name>
+        <Phone>602-262-2500</Phone>
+        <Address>
+            <Number>340</Number>
+            <Street>N 3rd St</Street>
+            <City>Phoenix</City>
+            <State>AZ</State>
+            <Zip>85004</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="3.8">
+        <Name>Holiday Inn Express &amp; Suites Tempe</Name>
+        <Phone>480-831-9800</Phone>
+        <Address NearstAirport="Sky Harbor">
+            <Number>1520</Number>
+            <Street>W Baseline Rd</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85283</Zip>
         </Address>
     </Hotel>
 
@@ -117,18 +131,6 @@
         <Address>
             <Number>77</Number>
             <Street>E Polk St</Street>
-            <City>Phoenix</City>
-            <State>AZ</State>
-            <Zip>85004</Zip>
-        </Address>
-    </Hotel>
-
-    <Hotel Rating="4.3">
-        <Name>Kimpton Hotel Palomar Phoenix</Name>
-        <Phone>602-253-6633</Phone>
-        <Address NearstAirport="Sky Harbor">
-            <Number>2</Number>
-            <Street>E Jefferson St</Street>
             <City>Phoenix</City>
             <State>AZ</State>
             <Zip>85004</Zip>
